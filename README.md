@@ -3,3 +3,7 @@ IntegrityCheck: Ensure Your Data's Integrity with Ease  IntegrityCheck is a robu
 
 
 python3 IntegrityCheck.py
+
+
+
+NOTE :- IntegrityCheck creates a unique hash value for any file, like a txt file. If someone changes or deletes any data in the file, the hash value will change and won't match the original one. This way, you can easily detect if the file has been tampered with.
